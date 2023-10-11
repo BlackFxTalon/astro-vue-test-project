@@ -1,0 +1,22 @@
+{
+  "name": "astro-vue-test-project",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/vue": "^3.0.1",
+    "astro": "^3.2.4",
+    "primevue": "^3.35.0",
+    "vue": "^3.3.4",
+    "vue-svg-inline-plugin": "^2.2.3"
+  },
+  "devDependencies": {
+    "vite-svg-loader": "^4.0.0"
+  }
+}
